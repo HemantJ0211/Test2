@@ -10,7 +10,7 @@
 #define new DEBUG_NEW
 #endif
 
-
+AAAA
 // CMemoryMappedFileApp
 
 BEGIN_MESSAGE_MAP(CMemoryMappedFileApp, CWinAppEx)
